@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+
+# Virtual environment
+.env
+.venv
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Data files (optional: ignore if storing locally)
+*.csv
+*.xlsx
+*.json
+
+# PPTX uploads (optional: ignore user uploaded files)
+uploaded_files/
+*.pptx
+
+# Torch / ML
+*.pt
+*.ckpt
+*.pth
+
+# Ollama API credentials (if any)
+*.key
+*.secret
+
+# Misc
+*.pdf
+*.zip

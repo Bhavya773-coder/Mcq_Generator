@@ -1,0 +1,6 @@
+streamlit
+python-pptx
+torch
+transformers
+PyMuPDF
+requests
